@@ -1,5 +1,6 @@
-# Heading - this H1 heading
-## H2 heading
+# Heading - this is a H1 heading
+## H2 heading
+### H3 heading
 
 _more text_   in italics
 
