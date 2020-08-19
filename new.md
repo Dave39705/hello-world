@@ -1,4 +1,6 @@
-# Heading
-_more text_
+# Heading - this H1 heading
+## H2 heading
 
-**even more text**
+_more text_   in italics
+
+**even more text**    in bold
